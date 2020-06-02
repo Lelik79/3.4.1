@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">3.4.1</string>
+    <string name="buttonOK">Тык</string>
+    <string name="textView">Здесь могла бы быть ваша реклама</string>
+    <string name="colorBlack">Чёрный</string>
+    <string name="colorGreen">Зелёный</string>
+    <string name="colorBlue">Синий</string>
+    <string name="changeLanguage">Выберите Язык</string>
+    <string name="ChangeColor">Выберите Цвет</string>
+
+
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">3.4.1</string>
+    <string name="buttonOK">OK</string>
+    <string name="textView">Something text</string>
+    <string name="colorBlack">Black</string>
+    <string name="colorGreen">Green</string>
+    <string name="colorBlue">Blue</string>
+    <string name="changeLanguage">Change language</string>
+    <string name="ChangeColor">Change color</string>
+
+</resources>
